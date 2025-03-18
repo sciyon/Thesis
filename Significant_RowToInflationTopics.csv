@@ -1,0 +1,90 @@
+Significant Rows,Column (inflation_x),p_value
+Rappler_economy_y,Daily Tribune_inflation_x,0.0018
+Rappler_economy_y,ABS-CBN News_inflation_x,0.0403
+Rappler_economy_y,Manila Standard_inflation_x,0.0486
+Business Mirror_technology_y,ABS-CBN News_inflation_x,0.0079
+Rappler_technology_y,GMA News Online_inflation_x,0.0071
+Rappler_technology_y,Daily Tribune_inflation_x,0.0176
+Philstar.com_technology_y,Daily Tribune_inflation_x,0.0149
+Philstar.com_technology_y,Manila Standard_inflation_x,0.0173
+Philstar.com_technology_y,GMA News Online_inflation_x,0.0349
+Manila Standard_technology_y,Philstar.com_inflation_x,0.0002
+Manila Standard_technology_y,GMA News Online_inflation_x,0.0011
+Manila Standard_technology_y,Manila Standard_inflation_x,0.0048
+Manila Standard_technology_y,ABS-CBN News_inflation_x,0.0074
+Business Mirror_environment_y,ABS-CBN News_inflation_x,0.0004
+Business Mirror_environment_y,Philstar.com_inflation_x,0.0269
+SunStar Philippines_environment_y,Manila Standard_inflation_x,0.0062
+Rappler_environment_y,Manila Standard_inflation_x,0.0
+Rappler_environment_y,Daily Tribune_inflation_x,0.0018
+Rappler_environment_y,ABS-CBN News_inflation_x,0.0039
+Rappler_environment_y,Philstar.com_inflation_x,0.0077
+Rappler_environment_y,Business Mirror_inflation_x,0.024
+Cebu Daily News_environment_y,ABS-CBN News_inflation_x,0.0272
+Cebu Daily News_environment_y,SunStar Philippines_inflation_x,0.0285
+Cebu Daily News_environment_y,Business Mirror_inflation_x,0.0404
+Cebu Daily News_environment_y,Philstar.com_inflation_x,0.0484
+ABS-CBN News_environment_y,Business Mirror_inflation_x,0.0013
+ABS-CBN News_environment_y,Philstar.com_inflation_x,0.0016
+ABS-CBN News_environment_y,SunStar Philippines_inflation_x,0.0118
+ABS-CBN News_environment_y,Daily Tribune_inflation_x,0.0346
+Philstar.com_environment_y,GMA News Online_inflation_x,0.0005
+Philstar.com_environment_y,ABS-CBN News_inflation_x,0.0013
+Philstar.com_environment_y,Business Mirror_inflation_x,0.0278
+Philstar.com_environment_y,Manila Standard_inflation_x,0.0373
+Manila Standard_environment_y,Daily Tribune_inflation_x,0.0151
+Manila Standard_environment_y,Philstar.com_inflation_x,0.0185
+Daily Tribune_environment_y,Philstar.com_inflation_x,0.0151
+Daily Tribune_environment_y,Manila Standard_inflation_x,0.0454
+InterAksyon_business_y,Business Mirror_inflation_x,0.0028
+InterAksyon_business_y,SunStar Philippines_inflation_x,0.003
+Cebu Daily News_business_y,Business Mirror_inflation_x,0.0378
+ABS-CBN News_business_y,Business Mirror_inflation_x,0.0002
+ABS-CBN News_business_y,ABS-CBN News_inflation_x,0.0316
+Business Mirror_foreign_affairs_y,SunStar Philippines_inflation_x,0.0266
+Business Mirror_foreign_affairs_y,GMA News Online_inflation_x,0.0454
+Rappler_foreign_affairs_y,Manila Standard_inflation_x,0.0095
+Rappler_foreign_affairs_y,Daily Tribune_inflation_x,0.0312
+Rappler_foreign_affairs_y,Business Mirror_inflation_x,0.0369
+GMA News Online_foreign_affairs_y,Daily Tribune_inflation_x,0.0011
+GMA News Online_foreign_affairs_y,GMA News Online_inflation_x,0.0013
+GMA News Online_foreign_affairs_y,Business Mirror_inflation_x,0.0038
+GMA News Online_foreign_affairs_y,ABS-CBN News_inflation_x,0.0105
+Philstar.com_foreign_affairs_y,SunStar Philippines_inflation_x,0.0015
+Philstar.com_foreign_affairs_y,ABS-CBN News_inflation_x,0.0124
+Philstar.com_foreign_affairs_y,Daily Tribune_inflation_x,0.0192
+Philstar.com_foreign_affairs_y,Business Mirror_inflation_x,0.0436
+Manila Standard_foreign_affairs_y,ABS-CBN News_inflation_x,0.011
+Manila Standard_foreign_affairs_y,Daily Tribune_inflation_x,0.0202
+Manila Standard_foreign_affairs_y,Philstar.com_inflation_x,0.0342
+Daily Tribune_foreign_affairs_y,ABS-CBN News_inflation_x,0.0084
+Business World_welfare_y,Business Mirror_inflation_x,0.0002
+Business World_welfare_y,Manila Standard_inflation_x,0.0391
+Business Mirror_welfare_y,GMA News Online_inflation_x,0.0048
+Business Mirror_welfare_y,Manila Standard_inflation_x,0.0343
+Business Mirror_welfare_y,Daily Tribune_inflation_x,0.0361
+SunStar Philippines_welfare_y,Daily Tribune_inflation_x,0.0025
+SunStar Philippines_welfare_y,Business Mirror_inflation_x,0.0075
+SunStar Philippines_welfare_y,ABS-CBN News_inflation_x,0.0363
+SunStar Philippines_welfare_y,SunStar Philippines_inflation_x,0.0492
+Rappler_welfare_y,ABS-CBN News_inflation_x,0.0015
+Rappler_welfare_y,SunStar Philippines_inflation_x,0.0104
+Rappler_welfare_y,GMA News Online_inflation_x,0.0214
+Rappler_welfare_y,Daily Tribune_inflation_x,0.0439
+GMA News Online_welfare_y,Business Mirror_inflation_x,0.0003
+GMA News Online_welfare_y,Manila Standard_inflation_x,0.0075
+GMA News Online_welfare_y,Philstar.com_inflation_x,0.0267
+Cebu Daily News_welfare_y,ABS-CBN News_inflation_x,0.0399
+ABS-CBN News_welfare_y,ABS-CBN News_inflation_x,0.0015
+ABS-CBN News_welfare_y,Business Mirror_inflation_x,0.0032
+ABS-CBN News_welfare_y,Manila Standard_inflation_x,0.0114
+ABS-CBN News_welfare_y,GMA News Online_inflation_x,0.0214
+Philstar.com_welfare_y,Manila Standard_inflation_x,0.0042
+Philstar.com_welfare_y,Philstar.com_inflation_x,0.0063
+Philstar.com_welfare_y,Business Mirror_inflation_x,0.0074
+Manila Standard_welfare_y,Manila Standard_inflation_x,0.0007
+Manila Standard_welfare_y,ABS-CBN News_inflation_x,0.0033
+Manila Standard_welfare_y,Philstar.com_inflation_x,0.0033
+Manila Standard_welfare_y,Business Mirror_inflation_x,0.0204
+Manila Standard_welfare_y,GMA News Online_inflation_x,0.0272
+Daily Tribune_welfare_y,Manila Standard_inflation_x,0.0174

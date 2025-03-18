@@ -1,0 +1,88 @@
+Response Variables (Y),Predictors (X),p_value
+Business Mirror_inflation_y,GMA News Online_welfare_x,0.0003
+Business Mirror_inflation_y,ABS-CBN News_foreign_affairs_x,0.0007
+Business Mirror_inflation_y,Cebu Daily News_technology_x,0.0023
+Business Mirror_inflation_y,The Manila Times_foreign_affairs_x,0.0029
+Business Mirror_inflation_y,Business World_welfare_x,0.0059
+Business Mirror_inflation_y,ABS-CBN News_environment_x,0.0061
+Business Mirror_inflation_y,GMA News Online_foreign_affairs_x,0.0145
+Business Mirror_inflation_y,Cebu Daily News_environment_x,0.0202
+Business Mirror_inflation_y,SunStar Philippines_welfare_x,0.0203
+Business Mirror_inflation_y,Manila Standard_foreign_affairs_x,0.0212
+Business Mirror_inflation_y,Philstar.com_foreign_affairs_x,0.0252
+Business Mirror_inflation_y,Philstar.com_environment_x,0.0267
+Business Mirror_inflation_y,ABS-CBN News_welfare_x,0.0281
+Business Mirror_inflation_y,InterAksyon_business_x,0.0282
+Business Mirror_inflation_y,Rappler_environment_x,0.0364
+Business Mirror_inflation_y,SunStar Philippines_environment_x,0.0482
+SunStar Philippines_inflation_y,Business World_welfare_x,0.0006
+SunStar Philippines_inflation_y,ABS-CBN News_welfare_x,0.0015
+SunStar Philippines_inflation_y,Business Mirror_technology_x,0.0016
+SunStar Philippines_inflation_y,GMA News Online_welfare_x,0.0062
+SunStar Philippines_inflation_y,Philstar.com_environment_x,0.0117
+SunStar Philippines_inflation_y,Rappler_environment_x,0.0143
+SunStar Philippines_inflation_y,ABS-CBN News_environment_x,0.0188
+SunStar Philippines_inflation_y,Philstar.com_foreign_affairs_x,0.0234
+SunStar Philippines_inflation_y,Daily Tribune_welfare_x,0.0292
+SunStar Philippines_inflation_y,Daily Tribune_environment_x,0.032
+SunStar Philippines_inflation_y,Business Mirror_environment_x,0.0334
+SunStar Philippines_inflation_y,GMA News Online_foreign_affairs_x,0.0363
+SunStar Philippines_inflation_y,Manila Standard_welfare_x,0.0496
+GMA News Online_inflation_y,Cebu Daily News_technology_x,0.0006
+GMA News Online_inflation_y,Business World_welfare_x,0.0087
+GMA News Online_inflation_y,GMA News Online_foreign_affairs_x,0.0098
+GMA News Online_inflation_y,InterAksyon_business_x,0.0251
+GMA News Online_inflation_y,Business Mirror_technology_x,0.0364
+GMA News Online_inflation_y,Rappler_environment_x,0.0367
+GMA News Online_inflation_y,Rappler_foreign_affairs_x,0.0456
+GMA News Online_inflation_y,ABS-CBN News_welfare_x,0.0489
+ABS-CBN News_inflation_y,Business World_welfare_x,0.0001
+ABS-CBN News_inflation_y,Business Mirror_technology_x,0.0009
+ABS-CBN News_inflation_y,Rappler_environment_x,0.0021
+ABS-CBN News_inflation_y,InterAksyon_business_x,0.0092
+ABS-CBN News_inflation_y,Business Mirror_environment_x,0.011
+ABS-CBN News_inflation_y,Cebu Daily News_technology_x,0.0116
+ABS-CBN News_inflation_y,Rappler_business_x,0.0171
+ABS-CBN News_inflation_y,SunStar Philippines_welfare_x,0.0203
+ABS-CBN News_inflation_y,Daily Tribune_environment_x,0.0235
+ABS-CBN News_inflation_y,Cebu Daily News_business_x,0.0379
+ABS-CBN News_inflation_y,Philstar.com_technology_x,0.0462
+Philstar.com_inflation_y,Rappler_environment_x,0.0
+Philstar.com_inflation_y,ABS-CBN News_business_x,0.0004
+Philstar.com_inflation_y,Manila Standard_environment_x,0.0007
+Philstar.com_inflation_y,Philstar.com_foreign_affairs_x,0.0008
+Philstar.com_inflation_y,Business Mirror_environment_x,0.002
+Philstar.com_inflation_y,The Manila Times_foreign_affairs_x,0.0029
+Philstar.com_inflation_y,GMA News Online_welfare_x,0.0029
+Philstar.com_inflation_y,ABS-CBN News_environment_x,0.0044
+Philstar.com_inflation_y,SunStar Philippines_environment_x,0.0052
+Philstar.com_inflation_y,Business Mirror_foreign_affairs_x,0.0071
+Philstar.com_inflation_y,ABS-CBN News_welfare_x,0.0115
+Philstar.com_inflation_y,Philstar.com_technology_x,0.0136
+Philstar.com_inflation_y,Manila Standard_technology_x,0.0166
+Philstar.com_inflation_y,ABS-CBN News_foreign_affairs_x,0.0193
+Philstar.com_inflation_y,Daily Tribune_foreign_affairs_x,0.0197
+Philstar.com_inflation_y,Rappler_foreign_affairs_x,0.0212
+Philstar.com_inflation_y,Business Mirror_technology_x,0.0225
+Philstar.com_inflation_y,Cebu Daily News_business_x,0.0243
+Philstar.com_inflation_y,Business World_welfare_x,0.0258
+Philstar.com_inflation_y,InterAksyon_business_x,0.0266
+Philstar.com_inflation_y,Manila Standard_foreign_affairs_x,0.0277
+Manila Standard_inflation_y,GMA News Online_welfare_x,0.0
+Manila Standard_inflation_y,The Manila Times_foreign_affairs_x,0.0044
+Manila Standard_inflation_y,ABS-CBN News_welfare_x,0.0072
+Manila Standard_inflation_y,Manila Standard_foreign_affairs_x,0.0091
+Manila Standard_inflation_y,Rappler_business_x,0.0105
+Manila Standard_inflation_y,ABS-CBN News_foreign_affairs_x,0.0161
+Manila Standard_inflation_y,Business World_welfare_x,0.0183
+Manila Standard_inflation_y,SunStar Philippines_welfare_x,0.0418
+Daily Tribune_inflation_y,Rappler_environment_x,0.0011
+Daily Tribune_inflation_y,SunStar Philippines_welfare_x,0.0018
+Daily Tribune_inflation_y,Philstar.com_foreign_affairs_x,0.0041
+Daily Tribune_inflation_y,Manila Standard_foreign_affairs_x,0.0088
+Daily Tribune_inflation_y,The Manila Times_foreign_affairs_x,0.0157
+Daily Tribune_inflation_y,Philstar.com_environment_x,0.025
+Daily Tribune_inflation_y,Manila Standard_environment_x,0.0251
+Daily Tribune_inflation_y,Rappler_foreign_affairs_x,0.0315
+Daily Tribune_inflation_y,ABS-CBN News_foreign_affairs_x,0.0365
+Daily Tribune_inflation_y,InterAksyon_business_x,0.0392
